@@ -2,7 +2,7 @@ public class helper {
 	
 	
 	public static void main(String[] args) {
-		System.out.println("Use git as a version control system");
+		System.out.println("This is the change");
 	}
 	
 }
